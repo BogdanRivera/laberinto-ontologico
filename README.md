@@ -11,7 +11,8 @@ Mapa mental ontológico e interactivo de **El laberinto de la soledad** de Octav
 
 ## Vista previa
 
-![Mapa ontológico del Laberinto de la Soledad](https://github.com/user-attachments/assets/093957f4-de40-4c40-9238-b48fd639299b)
+![Mapa ontológico del Laberinto de la Soledad](https://github.com/user-attachments/assets/589b593f-70f9-404c-98b7-377154907f17)
+
 ---
 
 ## ¿Qué es esto?
